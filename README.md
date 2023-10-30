@@ -13,8 +13,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>$> gt del oldRepo</sup>
 <br>
 <br>
-<a              
-href="https://github.com/rg3h/gitTools/raw/3100f90a4080972779aff85750e1c1c51f8293d8/assets/gt.zip">
+<a
+href="https://github.com/rg3h/gitTools/raw/main/gt.zip">
   <img src="./assets/images/downloadButton.png" valign="middle"/></a>
 <br>
 <br>
@@ -30,7 +30,7 @@ href="https://github.com/rg3h/gitTools/raw/3100f90a4080972779aff85750e1c1c51f829
   <br>
   The shell scripts are pretty straight forward. They use the GitHub API
  and curl.<br>
-  The GitHub API needs an access token, so these scripts use the .git-credentials file. 
+  The GitHub API needs an access token, so these scripts use the .git-credentials file.
   <br>
   <br>
   <ul>
@@ -75,9 +75,9 @@ href="https://github.com/rg3h/gitTools/raw/3100f90a4080972779aff85750e1c1c51f829
     <li><code>gt help</code></li>
     <li><code>bash /home/bin/gt/gt.sh ls</code> (run it explicitly with bash or zsh)</li>
   </ul>
-  
+
 </details>
-  
+
 <details>
   <summary><b>Potential Future Work</b></summary>
   <br>
