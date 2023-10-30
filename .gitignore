@@ -1,0 +1,79 @@
+# @fileoverview: .gitignore - tell git what directories and files to ignore
+
+#ignore temporary file names
+foo
+bar
+baz
+pushAll.bat
+pushReadMe.bat
+
+#ignore api keys
+secrets
+
+#ignore windows files
+desktop.ini
+
+# ignore keys
+*.pem
+
+#ignore links
+*.lnk
+
+# ignore emacs backup files
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# directories I use during development
+# tools/
+aaa_notForProject/
+gitcred.bat
+
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.vercel
+build/Release
+.npm
+
+# output of 'npm pack'
+*.tgz
+
+# logs
+notes.txt
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+firebase-debug.log*
+firebase-debug.*.log*
+
+# visual studio
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# yarn integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# firebase cache
+.firebase/
