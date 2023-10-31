@@ -93,9 +93,10 @@ href="https://github.com/rg3h/gitTools/raw/main/gt.zip">
     <tr><td valign="top"><sup><b>history</b></sup></td> <td><sup>tracking local repos, locally logging stats like git use-frequency</sup></td></tr>
     <tr><td valign="top"><sup><b>more authentication support</b></sup></td> <td><sup>GitHub supports multiple authentication mechanisms</sup></td></tr>
     <tr><td valign="top"><sup><b>snapshot</b></sup></td> <td><sup>grab/clone a repo, compress, and store it in a well-established location</sup></td></tr>
-    <tr><td valign="top"><sup><b>non-bash version</b></sup></td> <td><sup>how might projects be created and managed in other environments</sup></td></tr>
+    <tr><td valign="top"><sup><b>non-bash version</b></sup></td> <td><sup>investigate octokit.js and a more expansive coding environment</sup></td></tr>
     <tr><td valign="top"><sup><b>search</b></sup></td> <td><sup>I have ideas on a more general search/copilot tool</sup></td></tr>
-    <tr><td valign="top"><sup><b>The Making of gitTools</b></sup></td> <td><sup>documenting how gt evolved and what was learned along the way</sup></td></tr>
+    <tr><td valign="top"><sup><b>Beyond GitHub: what are we really trying to do?</b></sup></td>
+      <td><sup>write up on a more general system that addresses first principles of what we are trying to do (continuum of collaboration, publishing, sharing, backup, learning, etc).</sup></td></tr>
   </table>
   <br>
 </details>
@@ -160,6 +161,9 @@ href="https://github.com/rg3h/gitTools/raw/main/gt.zip">
       <br>
       <a href="https://docs.github.com/en/github-cli">GitHub CLI</a><br>
       <a href="https://docs.github.com/en/desktop">GitHub Desktop</a><br>
+      <br>
+      <a href="https://docs.github.com/en/rest/guides/scripting-with-the-rest-api-and-javascript?apiVersion=2022-11-28">
+        Scripting with the REST API and JavaScript</a>
     </sub</td</tr>
   </table>
 </details>
