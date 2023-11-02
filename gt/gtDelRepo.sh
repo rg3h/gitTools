@@ -1,13 +1,21 @@
 # @fileoverview gtDelRepo repoName deletes repoName (confirms and does not
 # touch the local version).
 #
-# set up script location and zshFlag
-scriptDir=$(cd $(dirname "${BASH_SOURCE[0]}") && pwd); tDir=${0:a:h} zshFlag=0
-if [[ ${#tDir} -gt 0 ]];then scriptDir="${tDir}";zshFlag=1;fi;unset tDir
+
+# figure out whether running bash or zsh by how it handles array indexing
+zshFlag=0;a=(1);if [[ ${a[0]} != "1" ]]; then zshFlag=1; fi; unset a
+
+#figure out where the script directory is, depending on zsh or bash
+scriptDir=""
+if [[ "${zshFlag}" == "1" ]]; then
+  scriptDir=${0:a:h}
+else
+  scriptDir=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+fi
+
 source ${scriptDir}/gtUtil.sh   # abstracts github API
 
 scriptName=${0##*/};scriptName=${scriptName##*\\}  #last part of full pathname
-
 repoName=""
 errorMsgList=()           # list of error messages to display
 
