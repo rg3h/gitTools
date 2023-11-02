@@ -14,10 +14,10 @@
 <br>
 <br>
 <a href="https://github.com/rg3h/gitTools/raw/main/gt.zip">
-  <img src="./assets/images/downloadButton.png" valign="middle"/></a>
+  <img src="./assets/images/downloadButton.png" alt="download the scripts!" valign="middle"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/rg3h/gitTools/raw/main/gtForApple.zip">
-  <img src="./assets/images/downloadForAppleButton.png" valign="middle"/></a>
+  <img src="./assets/images/downloadForAppleButton.png" alt="download the scripts for Apple!" valign="middle"/></a>
 <br>
 <br>
 
