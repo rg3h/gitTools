@@ -1,5 +1,5 @@
 <img src="./assets/images/screenshots/gtListScreenshot.png" width="250" align="right" valign="top"/>
-<img src="./assets/images/logo/logoText.png" valign="top"/>
+<img src="./assets/images/logo/logoText.png" alt="git tools" valign="top"/>
 <b>easy-to-use shell scripts for GitHub</b><br>
 <sub><sup>version 1.2.2 for Linux | Windows | Apple</sup></sub>
 <br>
