@@ -1,6 +1,6 @@
 # @fileoverview gtUtil.sh utilities for github access via github API
 #
-GT_VERSION="1.2.1"
+GT_VERSION="1.2.2"
 
 gtUserid=""
 gtCredential=""
