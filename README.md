@@ -22,8 +22,10 @@
 <br>
 
 <table><tr><td>
-  <b>caveat:</b> Do the "download for Apple zsh!" scripts work on Apple?<br>
-  <b>testing:</b> For an Apple, does the first button download work if you use "./gtz.sh" instead of "./gt/sh"
+  <sup>
+  <b>caveat:</b> Does the "download for Apple zsh!" work on Apple?<br>
+  <b>testing:</b> For Apple, does the first download button work if you use "./gtz.sh" instead of "./gt/sh"
+  </sup>
 </td></tr></table>
 
 <details>
