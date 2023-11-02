@@ -1,7 +1,7 @@
 <img src="./assets/images/screenshots/gtListScreenshot.png" width="250" align="right" valign="top"/>
 <img src="./assets/images/logo/logoText.png" valign="top"/>
 <b>easy-to-use shell scripts for GitHub</b><br>
-<sub><sup>version 1.2.2 for Linux | Windows | no Apple yet...</sup></sub>
+<sub><sup>version 1.2.2 for Linux | Windows | Apple</sup></sub>
 <br>
 <br>
 <b><i>Easily create, list, or delete repos from the command line</i></b><br>
@@ -13,16 +13,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>$> gt del oldRepo</sup>
 <br>
 <br>
-<a
-href="https://github.com/rg3h/gitTools/raw/main/gt.zip">
+<a href="https://github.com/rg3h/gitTools/raw/main/gt.zip">
   <img src="./assets/images/downloadButton.png" valign="middle"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/rg3h/gitTools/raw/main/gtForApple.zip">
+  <img src="./assets/images/downloadForAppleButton.png" valign="middle"/></a>
 <br>
 <br>
 
 <table><tr><td>
-  <b>caveat:</b> Still working on zsh with Apple.<br>
-  I don't own an Apple, so its harder to test zsh on Apple<br>
-  (gitTools work with zsh version 5.8 and bash 5.2.15 on my Windows and Linux machines).<br>
+  <b>caveat:</b> Does the "download for Apple zsh!" scripts work on Apple?<br>
 </td></tr></table>
 
 <details>
