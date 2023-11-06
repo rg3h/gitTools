@@ -21,12 +21,14 @@
 <br>
 <br>
 
+<!--
 <table><tr><td>
   <sup>
   <b>caveat:</b> Does the "download for Apple zsh!" work on Apple?<br>
   <b>testing:</b> For Apple, does the first download button work if you use "./gtz.sh" instead of "./gt/sh"
   </sup>
 </td></tr></table>
+-->
 
 <details>
   <summary><b>Setting Up the Scripts</b></summary>
