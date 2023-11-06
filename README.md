@@ -24,7 +24,6 @@
 <!--
 <table><tr><td>
   <sup>
-  <b>caveat:</b> Does the "download for Apple zsh!" work on Apple?<br>
   <b>testing:</b> For Apple, does the first download button work if you use "./gtz.sh" instead of "./gt/sh"
   </sup>
 </td></tr></table>
@@ -33,35 +32,30 @@
 <details>
   <summary><b>Setting Up the Scripts</b></summary>
   <br>
-  The shell scripts are pretty straight forward. They use the GitHub API
- and curl.<br>
-  The GitHub API needs an access token, so these scripts use the .git-credentials file.
-  <br>
-  <br>
   <ul>
-    <li><i><a href="./settingUpGitCredentials.md">set up GitHub credentials</a></i></li>
+    <li><i><a href="./settingUpGitCredentials.md">set up GitHub credentials if you don't have a home/USERID/.git-credentials file</a></i></li>
     <br>
-  <li><details>
-    <summary><i>set up for <b>Linux</b></i></summary>
-    <ul>
-      <li>sudo apt install curl</li>
-      <li>unzip gt into (for example): /home/USERID/bin/gt/</li>
-      <li>set your $PATH to include /home/USERID/bin/gt</li>
-      <li>chmod u+rwx /home/USERID/bin/gt/gt.sh</li>
-      <li>(.bashrc) alias gt='/home/USERID/bin/gt/gt.sh'</li>
-      <li>test it by typing: <b>gt</b>
-    </ul>
-  </details></li>
-  <li><details>
-    <summary><i>set up for <b>Windows</b></i></summary>
-    <ul>
-      <li>download and install <b><a href="https://www.cygwin.com/">cygwin</a></b></li>
-      <li>add C:\cygwin64\bin to your %PATH%</li>
-      <li>unzip gt into (for example): C:\USERID\bin\gt\</li>
-      <li>set your %PATH% environment variable to include the gt directory</li>
-      <li>test it by typing: <b>gt</b>
-    </ul>
-  </details></li>
+    <li><details>
+      <summary><i>set up for <b>Linux</b></i></summary>
+      <ul>
+        <li>sudo apt install curl</li>
+        <li>unzip gt into (for example): /home/USERID/bin/gt/</li>
+        <li>set your $PATH to include /home/USERID/bin/gt</li>
+        <li>chmod u+rwx /home/USERID/bin/gt/gt.sh</li>
+        <li>(.bashrc) alias gt='/home/USERID/bin/gt/gt.sh'</li>
+        <li>test it by typing: <b>gt</b>
+      </ul>
+    </details></li>
+    <li><details>
+      <summary><i>set up for <b>Windows</b></i></summary>
+      <ul>
+        <li>download and install <b><a href="https://www.cygwin.com/">cygwin</a></b></li>
+        <li>add C:\cygwin64\bin to your %PATH%</li>
+        <li>unzip gt into (for example): C:\USERID\bin\gt\</li>
+        <li>set your %PATH% environment variable to include the gt directory</li>
+        <li>test it by typing: <b>gt</b>
+      </ul>
+    </details></li>
   </ul>
   <br>
 </details>
