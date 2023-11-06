@@ -38,11 +38,11 @@
       <li>now you can delete the temporarily saved token from step 10 above</li>
     </ol>
   </details>
-
+  <br>
+  <br>
   <details>
-    <summary><b>Side Note: my git-config commands</b></summary>
+    <summary>In case this is useful: my git-config set up commands</summary>
     <br>
-    Here is a list of all the git config commands I used to set up my git, in case it is helpful:<br>
     <sub>
     git config --global user.name "<b>USERID</b>"<br>
     git config --global user.email "<b>YOUREMAIL</b>"<br>
@@ -58,4 +58,3 @@
     git config -l --show-origin<br>
     </sub>
   </details>
-  <br>
