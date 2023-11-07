@@ -1,8 +1,8 @@
 <img src="./assets/images/screenshots/gtListScreenshot.png" width="250" align="right" valign="top"/>
 <img src="./assets/images/logo/logoText.png" alt="git tools" valign="top"/>
 <b>easy-to-use shell scripts for GitHub</b><br>
-<sub><sup>version 1.2.2 for Linux | Windows | Apple</sup></sub>
-<br>
+<sub><sup>version 1.2.2 for Linux | Windows | Apple</sup></sub><br>
+<!-- <sup><sub><a href="https://rg3h.github.io/gitTools">https://rg3h.github.io/gitTools</a></sub></sup><br> -->
 <br>
 <b><i>Easily create, list, or delete repos from the command line</i></b><br>
 <br>
