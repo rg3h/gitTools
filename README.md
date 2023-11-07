@@ -163,6 +163,11 @@
       <br>
       <a href="https://docs.github.com/en/rest/guides/scripting-with-the-rest-api-and-javascript?apiVersion=2022-11-28">
         Scripting with the REST API and JavaScript</a>
+      <br>
+      <a href="./settingUpGitCredentials.md">setting up GitHub credentials</a><br>
+      <a href="https://rg3h.github.io/whichShell">whichShell</a><br>
+      <a href="https://rg3h.github.io/gitTools">gitTools</a><br>
+      <br>
     </sub></td></tr>
   </table>
 </details>
