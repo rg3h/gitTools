@@ -124,7 +124,7 @@
   <b>gitTool Benefits</b><br>
   <table>
     <tr><td><sup>easy-to-use</sup></td></tr>
-    <tr><td><sup>customizable</sup></td></td></tr>
+    <tr><td><sup>customizable</sup></td></tr>
     <tr><td><sup>transparent (you can read the scripts)</sup></td></tr>
     <tr><td><sup>ubiquitous (same code runs on lots of platforms)</sup></td></tr>
     <tr><td><sup>maintainable (written in modules)</sup></td></tr>
@@ -163,7 +163,7 @@
       <br>
       <a href="https://docs.github.com/en/rest/guides/scripting-with-the-rest-api-and-javascript?apiVersion=2022-11-28">
         Scripting with the REST API and JavaScript</a>
-    </sub</td</tr>
+    </sub></td></tr>
   </table>
 </details>
 <sub>A <b>shout out</b> to Amit and Kim for our discussions on <b>gt</b> and on
