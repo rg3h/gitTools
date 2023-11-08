@@ -1,4 +1,4 @@
-# @fileoverview: .gitignore - tell git what directories and files to ignore
+# @fileoverview: .gitignore
 
 #ignore temporary file names
 foo
