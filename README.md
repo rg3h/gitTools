@@ -171,5 +171,5 @@
     </sub></td></tr>
   </table>
 </details>
-<sub>A <b>shout out</b> to Amit and Kim for our discussions on <b>gt</b> and on
+<sub>A <b>shout out</b> to Amit, Kim, and Julio for help on <b>gt</b> and on
 broader concepts around computer technology, people, and innovation.</sub>
