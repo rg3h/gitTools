@@ -172,4 +172,8 @@
   </table>
 </details>
 <sub>A <b>shout out</b> to Amit, Kim, and Julio for help on <b>gt</b> and on
-broader concepts around computer technology, people, and innovation.</sub>
+broader concepts around computer technology, people, and innovation.
+<br>
+<a href="https://rg3h.github.io/gitTools/">link to html of this page</a>
+<br>
+</sub>
